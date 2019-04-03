@@ -22,4 +22,4 @@ exports.largestPrimeFactor = function(n){
   
   primeNumber = primeFactors[primeFactors.length - 1];
   return primeNumber;
-}
+};
